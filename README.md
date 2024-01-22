@@ -1,5 +1,4 @@
-### Hi there 👋
-I am a Web Full-Stack Developer and Data Engineer.
+Web Full-Stack Developer, Data Engineer and IT Contents Creator.
 
 | Year | Project Details                          |
 |------|------------------------------------------|
